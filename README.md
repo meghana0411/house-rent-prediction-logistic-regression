@@ -20,5 +20,3 @@ number of rooms, and rent price.
 ## 📈 Outcome
 The model learns the relationship between house features and rent.
 
-## 👤 Author
-Your Name
